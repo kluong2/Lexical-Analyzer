@@ -1,0 +1,17 @@
+﻿  LexicalAnalyzer.cpp
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(60,10): warning C4930: 'std::string value(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(58,10): warning C4930: 'std::string kind(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(62,10): warning C4930: 'std::string position(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(80,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(85,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(91,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(120,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(148,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(151,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(247,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(306,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(321,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(364,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(367,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kobe\source\repos\Lexical Analyzer\Lexical Analyzer\LexicalAnalyzer.h(385,22): warning C4018: '<': signed/unsigned mismatch
+  Lexical Analyzer.vcxproj -> C:\Users\Kobe\source\repos\Lexical Analyzer\Debug\Lexical Analyzer.exe
