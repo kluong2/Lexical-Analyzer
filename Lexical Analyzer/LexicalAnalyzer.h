@@ -33,6 +33,12 @@ public:
 
 		grammar.open(this->filename);//Calls the function in the "grammar" instance to open a file. The function is called in here so the function "next()" can work in a loop without opening the same file repeatedly
 
+		if (grammar.fail())
+		{
+			cout << "File failed to open!" << endl;
+			abort();
+		}
+
 		y = 1;//Line position. Textfiles start at line 1
 
 		x = 1;//Column position. Textfiles start at line 1
